@@ -1,11 +1,9 @@
-# Java Basic App ☕
+# Java Basic App
 
-Bu depo, temel seviyede Java programlama kavramlarını içeren bir uygulamayı barındırmaktadır. 
-
-## 📂 İçerik
+Bu depo, temel seviyede Java programlama kavramlarını içeren bir uygulamayı barındırmaktadır. İçerik
 * **`Final.java`**: Uygulamanın temel işlevlerini ve ana kaynak kodlarını içeren Java dosyasıdır.
 
-## ⚙️ Nasıl Çalıştırılır?
+ Nasıl Çalıştırılır?
 
 Bu kodu bilgisayarınızda derleyip çalıştırabilmek için sisteminizde **Java Development Kit (JDK)** yüklü olmalıdır.
 
